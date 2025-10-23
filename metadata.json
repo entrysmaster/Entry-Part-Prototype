@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Entry Solutions Parts Manager",
+  "description": "A comprehensive internal web and mobile application for Entry Solutions field technicians to manage parts inventory, track usage, and receive automated alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
